@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\labadmin\\Desktop\\SmartFeedbackPortal\\backend\\SmartFeedback.API\\SmartFeedback.API.csproj": {}
+    "C:\\Users\\labadmin\\Desktop\\SmartFeedbackPortal\\Backend\\SmartFeedback.API\\SmartFeedback.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\labadmin\\Desktop\\SmartFeedbackPortal\\backend\\SmartFeedback.API\\SmartFeedback.API.csproj": {
+    "C:\\Users\\labadmin\\Desktop\\SmartFeedbackPortal\\Backend\\SmartFeedback.API\\SmartFeedback.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\labadmin\\Desktop\\SmartFeedbackPortal\\backend\\SmartFeedback.API\\SmartFeedback.API.csproj",
+        "projectUniqueName": "C:\\Users\\labadmin\\Desktop\\SmartFeedbackPortal\\Backend\\SmartFeedback.API\\SmartFeedback.API.csproj",
         "projectName": "SmartFeedback.API",
-        "projectPath": "C:\\Users\\labadmin\\Desktop\\SmartFeedbackPortal\\backend\\SmartFeedback.API\\SmartFeedback.API.csproj",
+        "projectPath": "C:\\Users\\labadmin\\Desktop\\SmartFeedbackPortal\\Backend\\SmartFeedback.API\\SmartFeedback.API.csproj",
         "packagesPath": "C:\\Users\\labadmin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\labadmin\\Desktop\\SmartFeedbackPortal\\backend\\SmartFeedback.API\\obj\\",
+        "outputPath": "C:\\Users\\labadmin\\Desktop\\SmartFeedbackPortal\\Backend\\SmartFeedback.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\labadmin\\AppData\\Roaming\\NuGet\\NuGet.Config"
